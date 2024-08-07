@@ -30,7 +30,7 @@ I'm a **final year Electronics and Telecommunication (ENTC) engineering student*
 ## 💡 Projects
 
 ### 1. 🧠 **Smart Medicine Box**
-![Smart Medicine Box]("C:\Users\drsan\OneDrive\Desktop\Smart medicin box\box image.jpg")
+![Smart Medicine Box]("https://github.com/Sandy1114D/Sandy1114D/blob/main/box%20image.jpg")
 
 A smart solution designed to help older adults remember to take their medications on time.
 - **Features:**
