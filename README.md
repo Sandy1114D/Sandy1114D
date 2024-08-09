@@ -1,96 +1,85 @@
-# 💫 Sanket Sandeep Patil 💫
+# 🌟 Welcome to My GitHub Profile 🌟
 
-## 👨‍💻 About Me
-I'm a **final year Electronics and Telecommunication (ENTC) engineering student** passionate about **software and hardware projects**. I focus on creating innovative and practical solutions. My interests span across:
-- 🌐 **Web Development**
-- 🏥 **Health and Medical Sectors**
-- 📡 **Electronic and Telecommunication Systems**
+![Header Image](https://github.com/yourusername/yourrepository/raw/main/images/header_image.png)
 
 ---
 
-## 🎓 Education
-- Pune University
-  - Bachelor of Engineering in Electronics and Telecommunication
-  - Expected Graduation: 2025
+## 👋 Hi, I'm [Your Name]
+- 🎓 **Final Year Electronics and Telecommunication (ENTC) Engineering Student**
+- 🧠 Passionate about **Machine Learning, Web Development,** and **Healthcare Technology**
+- 🌟 Currently a **Web Development Intern at [Labdox](https://www.labdox.com)**
+- 🔭 Working on innovative projects that bridge the gap between technology and real-world applications.
+
+![Profile Picture](https://github.com/yourusername/yourrepository/raw/main/images/profile_picture.png)
 
 ---
 
-## 💼 Current Positions
-### 🌟 Web Development Intern at [Labdox](https://www.labdox.com)
-- 🌟 Developing and optimizing web pages.
-- 🌟 Crafting user-friendly interfaces.
-- 🌟 Enhancing website aesthetics with modern design principles.
-
-### 🌟 Intern at [iNeuron](https://ineuron.ai)
-- 🌟 Working on various data science and AI projects.
-- 🌟 Utilizing Power BI for data visualization and analytics.
-
----
-
-## 💡 Projects
+## 🚀 My Projects
 
 ### 1. 🧠 **Smart Medicine Box**
-![Smart Medicine Box]("images/box image.jpg")
+![Smart Medicine Box](https://github.com/yourusername/yourrepository/raw/main/images/smart_medicine_box.png)
 
-A smart solution designed to help older adults remember to take their medications on time.
-- **Features:**
-  - Alerts users if they do not take their medicine at the set time.
-  - Continuous buzzing until the medicine is taken.
-  - User-friendly design.
-- **Technologies Used:** Arduino, Sensors, Buzzer
+A device designed to help older adults remember their medications. The box alerts users if they forget to take their medicine and buzzes continuously until the medicine is taken.
+- **Tech Stack:** Arduino, Sensors, Buzzer
+- **Highlights:** 
+  - 📅 Timely alerts for medication
+  - 🔊 Audible buzzer for reminders
 
-### 2. 📚 **Labdox LMS**
-![Labdox Healthcare LMS](https://aqe8bc1whfwa.swipepages.net/labdox1116)
+### 2. 📚 **Comelearn LMS**
+![Comelearn LMS](https://github.com/yourusername/yourrepository/raw/main/images/comelearn_lms.png)
 
-A fully-fledged Learning Management System (LMS) named 'Labdox LMS' using swipepages.
-- **Features:**
-  - Responsive design.
-  - User-friendly interface.
-  - Comprehensive learning tools.
-- **Technologies Used:** swipepages
+A fully-responsive Learning Management System with a focus on modern design and user experience.
+- **Tech Stack:** React.js, Vite, Tailwind CSS
+- **Highlights:** 
+  - 🌐 Web-based platform
+  - 📱 Mobile-friendly design
+  - 🎨 Customizable themes
 
 ### 3. 🌞 **Leaderboard & Dashboard Project**
-![Leaderboard & Dashboard](link_to_leaderboard_dashboard_image)
+![Leaderboard & Dashboard](https://github.com/yourusername/yourrepository/raw/main/images/leaderboard_dashboard.png)
 
-A project focusing on creating an attractive, functional, and mobile-optimized dashboard and leaderboard.
-- **Features:**
-  - Centered layout for forms and leaderboard.
-  - Toggle-style reset button.
-  - Icons and medals for top performers.
-  - Scrollable leaderboard for better user experience.
-- **Technologies Used:** HTML, CSS, JavaScript
-
-### 4. 📖 **Bookstore Project**
-![Bookstore Project](https://drive.google.com/drive/folders/1_wLf5OM-XvQ9ZpSwdOPm9gyq5fK8bcdS)
-
-An online bookstore application for managing book inventory and sales.
-- **Features:**
-  - User-friendly interface for browsing and purchasing books.
-  - Admin panel for managing inventory.
-  - Secure payment gateway integration.
-- **Technologies Used:** React.js, Node.js, MongoDB, Express.js
+An interactive and aesthetically pleasing dashboard and leaderboard for tracking performance.
+- **Tech Stack:** HTML, CSS, JavaScript
+- **Highlights:** 
+  - 🏅 Top 5 performers displayed with medals
+  - 🎨 Customizable colors and layout
+  - 📊 Scrollable leaderboard
 
 ---
 
-## 🛠 Skills
+## 💼 Experience
+### 🌟 **Web Development Intern at [Labdox](https://www.labdox.com)**
+- 🌟 Creating optimized and responsive web pages.
+- 🌟 Improving user interfaces with modern design principles.
+- 🌟 Crafting visually appealing dashboards and reports.
+
+### 🌟 **Intern at [iNeuron](https://ineuron.ai)**
+- 🌟 Working on AI and Data Science projects.
+- 🌟 Using Power BI for data visualization.
+- 🌟 Developing AI-driven web applications.
+
+---
+
+## 🛠 Technical Skills
+
 - **Languages:** 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Python](https://img.shields.io/badge/-Python-blue) 
-- **Frameworks:** 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Python](https://img.shields.io/badge/-Python-blue) ![C++](https://img.shields.io/badge/-C++-brightgreen) ![Java](https://img.shields.io/badge/-Java-red)
+- **Frameworks & Tools:** 
   ![React.js](https://img.shields.io/badge/-React.js-blue) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
-- **Tools:** 
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-green) ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow) 
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-green) ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow)
 - **Technologies:** 
-  ![NVMe](https://img.shields.io/badge/-NVMe-blue) ![PCIe](https://img.shields.io/badge/-PCIe-orange) ![SSD Verification Tools](https://img.shields.io/badge/-SSD%20Verification%20Tools-red)
+  ![NVMe](https://img.shields.io/badge/-NVMe-blue) ![PCIe](https://img.shields.io/badge/-PCIe-orange)
 - **Platforms:** 
   ![Swipepages](https://img.shields.io/badge/-Swipepages-blue) ![HubSpot](https://img.shields.io/badge/-HubSpot-orange)
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/sandy1114d/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Sandy1114D)
-[![Email](https://img.shields.io/badge/-Email-red)](mailto:drsanketpatil18@email@example.com)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/yourprofile)
+[![Email](https://img.shields.io/badge/-Email-red)](mailto:youremail@example.com)
 
 ---
 
-
+![Footer Image](https://github.com/yourusername/yourrepository/raw/main/images/footer_image.png)
