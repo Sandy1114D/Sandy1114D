@@ -15,7 +15,7 @@
 ## 🚀 My Projects
 
 ### 1. 🧠 **Smart Medicine Box**
-![Smart Medicine Box](https://github.com/Sandy1114D/yourrepository/raw/main/images/smart_medicine_box.png)
+![Smart Medicine Box](https://github.com/Sandy1114D/yourrepository/raw/main/images/smart_medicine_box.png.png)
 
 A device designed to help older adults remember their medications. The box alerts users if they forget to take their medicine and buzzes continuously until the medicine is taken.
 - **Tech Stack:** Arduino, Sensors, Buzzer
@@ -24,7 +24,7 @@ A device designed to help older adults remember their medications. The box alert
   - 🔊 Audible buzzer for reminders
 
 ### 2. 📚 **Labdox LMS**
-![Labdox LMS](https://github.com/Sandy1114D/yourrepository/raw/main/images/labdox_lms.png)
+![Labdox LMS](https://github.com/Sandy1114D/yourrepository/raw/main/images/labdox_lms.png.png)
 
 A fully-responsive Learning Management System with a focus on modern design and user experience.
 - **Tech Stack:** React.js, Vite, Tailwind CSS
