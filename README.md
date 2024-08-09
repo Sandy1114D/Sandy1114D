@@ -44,7 +44,7 @@ An interactive and aesthetically pleasing dashboard and leaderboard for tracking
   - 📊 Scrollable leaderboard
 
 ### 4. 📖 **Bookstore Project**
-![Bookstore Project](https://github.com/Sandy1114D/yourrepository/raw/main/images/bookstore_project.png)
+![Bookstore Project](https://github.com/Sandy1114D/Sandy1114D/blob/main/images/Screenshot%202024-08-07%20163458.png)
 
 An online bookstore application for managing book inventory and sales.
 - **Tech Stack:** React.js, Node.js, MongoDB, Express.js
@@ -54,7 +54,7 @@ An online bookstore application for managing book inventory and sales.
   - 💳 Secure payment gateway integration
 
 ### 5. 📊 **SHL Dashboard**
-![SHL Dashboard](https://github.com/Sandy1114D/yourrepository/raw/main/images/shl_dashboard.png)
+![SHL Dashboard](https://github.com/Sandy1114D/Sandy1114D/blob/main/images/Screenshot%202023-10-29%20144536.png)
 
 A comprehensive dashboard for visualizing and analyzing SHL assessment data.
 - **Tech Stack:** Power BI, JavaScript, SQL
@@ -94,8 +94,8 @@ A comprehensive dashboard for visualizing and analyzing SHL assessment data.
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/sandy1114d/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Sandy1114D)
 [![Email](https://img.shields.io/badge/-Email-red)](mailto:drsanketpatil18@example.com)
 
 ---
