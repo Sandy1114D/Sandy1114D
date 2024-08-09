@@ -1,23 +1,21 @@
 # 🌟 Welcome to My GitHub Profile 🌟
 
-![Header Image](https://github.com/yourusername/yourrepository/raw/main/images/header_image.png)
 
 ---
 
-## 👋 Hi, I'm [Your Name]
+## 👋 Hi, I'm Sanket 
 - 🎓 **Final Year Electronics and Telecommunication (ENTC) Engineering Student**
 - 🧠 Passionate about **Machine Learning, Web Development,** and **Healthcare Technology**
 - 🌟 Currently a **Web Development Intern at [Labdox](https://www.labdox.com)**
 - 🔭 Working on innovative projects that bridge the gap between technology and real-world applications.
 
-![Profile Picture](https://github.com/yourusername/yourrepository/raw/main/images/profile_picture.png)
 
 ---
 
 ## 🚀 My Projects
 
 ### 1. 🧠 **Smart Medicine Box**
-![Smart Medicine Box](https://github.com/yourusername/yourrepository/raw/main/images/smart_medicine_box.png)
+![Smart Medicine Box](https://github.com/Sandy1114D/yourrepository/raw/main/images/smart_medicine_box.png)
 
 A device designed to help older adults remember their medications. The box alerts users if they forget to take their medicine and buzzes continuously until the medicine is taken.
 - **Tech Stack:** Arduino, Sensors, Buzzer
@@ -25,8 +23,8 @@ A device designed to help older adults remember their medications. The box alert
   - 📅 Timely alerts for medication
   - 🔊 Audible buzzer for reminders
 
-### 2. 📚 **Comelearn LMS**
-![Comelearn LMS](https://github.com/yourusername/yourrepository/raw/main/images/comelearn_lms.png)
+### 2. 📚 **Labdox LMS**
+![Labdox LMS](https://github.com/Sandy1114D/yourrepository/raw/main/images/labdox_lms.png)
 
 A fully-responsive Learning Management System with a focus on modern design and user experience.
 - **Tech Stack:** React.js, Vite, Tailwind CSS
@@ -36,7 +34,7 @@ A fully-responsive Learning Management System with a focus on modern design and 
   - 🎨 Customizable themes
 
 ### 3. 🌞 **Leaderboard & Dashboard Project**
-![Leaderboard & Dashboard](https://github.com/yourusername/yourrepository/raw/main/images/leaderboard_dashboard.png)
+![Leaderboard & Dashboard](https://github.com/Sandy1114D/yourrepository/raw/main/images/leaderboard_dashboard.png)
 
 An interactive and aesthetically pleasing dashboard and leaderboard for tracking performance.
 - **Tech Stack:** HTML, CSS, JavaScript
@@ -44,6 +42,26 @@ An interactive and aesthetically pleasing dashboard and leaderboard for tracking
   - 🏅 Top 5 performers displayed with medals
   - 🎨 Customizable colors and layout
   - 📊 Scrollable leaderboard
+
+### 4. 📖 **Bookstore Project**
+![Bookstore Project](https://github.com/Sandy1114D/yourrepository/raw/main/images/bookstore_project.png)
+
+An online bookstore application for managing book inventory and sales.
+- **Tech Stack:** React.js, Node.js, MongoDB, Express.js
+- **Highlights:** 
+  - 🛒 User-friendly interface for browsing and purchasing books
+  - 📈 Admin panel for managing inventory
+  - 💳 Secure payment gateway integration
+
+### 5. 📊 **SHL Dashboard**
+![SHL Dashboard](https://github.com/Sandy1114D/yourrepository/raw/main/images/shl_dashboard.png)
+
+A comprehensive dashboard for visualizing and analyzing SHL assessment data.
+- **Tech Stack:** Power BI, JavaScript, SQL
+- **Highlights:** 
+  - 📊 Interactive data visualizations
+  - 📝 Detailed reporting capabilities
+  - 📈 Real-time data analysis
 
 ---
 
@@ -63,7 +81,7 @@ An interactive and aesthetically pleasing dashboard and leaderboard for tracking
 ## 🛠 Technical Skills
 
 - **Languages:** 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Python](https://img.shields.io/badge/-Python-blue) ![C++](https://img.shields.io/badge/-C++-brightgreen) ![Java](https://img.shields.io/badge/-Java-red)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Python](https://img.shields.io/badge/-Python-blue)
 - **Frameworks & Tools:** 
   ![React.js](https://img.shields.io/badge/-React.js-blue) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-green) ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow)
@@ -78,8 +96,8 @@ An interactive and aesthetically pleasing dashboard and leaderboard for tracking
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-red)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/-Email-red)](mailto:drsanketpatil18@example.com)
 
 ---
 
-![Footer Image](https://github.com/yourusername/yourrepository/raw/main/images/footer_image.png)
+
