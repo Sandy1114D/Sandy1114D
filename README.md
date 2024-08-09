@@ -15,7 +15,7 @@
 ## 🚀 My Projects
 
 ### 1. 🧠 **Smart Medicine Box**
-![Smart Medicine Box]()
+![Smart Medicine Box](https://github.com/Sandy1114D/Sandy1114D/blob/main/images/smart_medicine_box.png.jpg)
 
 A device designed to help older adults remember their medications. The box alerts users if they forget to take their medicine and buzzes continuously until the medicine is taken.
 - **Tech Stack:** Arduino, Sensors, Buzzer
