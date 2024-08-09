@@ -18,6 +18,7 @@
 
 <div align="left">
   <h2 style="font-size: 28px; color: #008080;">🚀 My Projects</h2>
+  <!-- Project 1 -->
   <h3 style="font-size: 24px; color: #20B2AA;">1. 🧠 Smart Medicine Box</h3>
   <img src="https://github.com/Sandy1114D/Sandy1114D/blob/main/images/smart_medicine_box.png.jpg" alt="Smart Medicine Box" style="width: 80%; border: 2px solid #FF6347; border-radius: 10px;">
   <p style="font-size: 18px; color: #696969;">A device designed to help older adults remember their medications. The box alerts users if they forget to take their medicine and buzzes continuously until the medicine is taken.</p>
@@ -29,7 +30,8 @@
       <li>🔊 Audible buzzer for reminders</li>
     </ul>
   </ul>
-
+  
+  <!-- Project 2 -->
   <h3 style="font-size: 24px; color: #20B2AA;">2. 📚 Labdox LMS</h3>
   <img src="https://github.com/Sandy1114D/Sandy1114D/blob/main/images/labdox_lms.png.png" alt="Labdox LMS" style="width: 80%; border: 2px solid #FF6347; border-radius: 10px;">
   <p style="font-size: 18px; color: #696969;">A fully-responsive Learning Management System with a focus on modern design and user experience.</p>
@@ -42,7 +44,8 @@
       <li>🎨 Customizable themes</li>
     </ul>
   </ul>
-
+  
+  <!-- Project 3 -->
   <h3 style="font-size: 24px; color: #20B2AA;">3. 🌞 Leaderboard & Dashboard Project</h3>
   <img src="https://github.com/Sandy1114D/yourrepository/raw/main/images/leaderboard_dashboard.png" alt="Leaderboard & Dashboard" style="width: 80%; border: 2px solid #FF6347; border-radius: 10px;">
   <p style="font-size: 18px; color: #696969;">An interactive and aesthetically pleasing dashboard and leaderboard for tracking performance.</p>
@@ -55,7 +58,8 @@
       <li>📊 Scrollable leaderboard</li>
     </ul>
   </ul>
-
+  
+  <!-- Project 4 -->
   <h3 style="font-size: 24px; color: #20B2AA;">4. 📖 Bookstore Project</h3>
   <img src="https://github.com/Sandy1114D/Sandy1114D/blob/main/images/Screenshot%202024-08-07%20163458.png" alt="Bookstore Project" style="width: 80%; border: 2px solid #FF6347; border-radius: 10px;">
   <p style="font-size: 18px; color: #696969;">An online bookstore application for managing book inventory and sales.</p>
@@ -68,7 +72,8 @@
       <li>💳 Secure payment gateway integration</li>
     </ul>
   </ul>
-
+  
+  <!-- Project 5 -->
   <h3 style="font-size: 24px; color: #20B2AA;">5. 📊 SHL Dashboard</h3>
   <img src="https://github.com/Sandy1114D/Sandy1114D/blob/main/images/Screenshot%202023-10-29%20144536.png" alt="SHL Dashboard" style="width: 80%; border: 2px solid #FF6347; border-radius: 10px;">
   <p style="font-size: 18px; color: #696969;">A comprehensive dashboard for visualizing and analyzing SHL assessment data.</p>
@@ -87,13 +92,16 @@
 
 <div align="center">
   <h2 style="font-size: 28px; color: #FF4500;">💼 Experience</h2>
+  
+  <!-- Experience 1 -->
   <h3 style="font-size: 24px; color: #4682B4;">🌟 Web Development Intern at <a href="https://www.labdox.com" style="color: #4682B4;">Labdox</a></h3>
   <ul style="list-style-type: square; text-align: left; color: #2F4F4F; font-size: 18px;">
     <li>🌟 Creating optimized and responsive web pages</li>
     <li>🌟 Improving user interfaces with modern design principles</li>
     <li>🌟 Crafting visually appealing dashboards and reports</li>
   </ul>
-
+  
+  <!-- Experience 2 -->
   <h3 style="font-size: 24px; color: #4682B4;">🌟 Intern at <a href="https://ineuron.ai" style="color: #4682B4;">iNeuron</a></h3>
   <ul style="list-style-type: square; text-align: left; color: #2F4F4F; font-size: 18px;">
     <li>🌟 Working on AI and Data Science projects</li>
@@ -105,8 +113,28 @@
 <hr style="border: 1px solid #FFA500; width: 60%;">
 
 <div align="center">
+  <h2 style="font-size: 28px; color: #008080;">🛠 Technical Skills</h2>
+  <table style="width:80%; font-size:18px; color:#2F4F4F;">
+    <tr>
+      <th align="center" style="padding:10px; color:#FF6347;">Languages</th>
+      <th align="center" style="padding:10px; color:#FF6347;">Frameworks & Tools</th>
+      <th align="center" style="padding:10px; color:#FF6347;">Technologies</th>
+      <th align="center" style="padding:10px; color:#FF6347;">Platforms</th>
+    </tr>
+    <tr>
+      <td align="center" style="padding:10px;">JavaScript, Python</td>
+      <td align="center" style="padding:10px;">React.js, Node.js, Express.js, MongoDB, Power BI</td>
+      <td align="center" style="padding:10px;">NVMe, PCIe</td>
+      <td align="center" style="padding:10px;">Swipepages, HubSpot</td>
+    </tr>
+  </table>
+</div>
+
+<hr style="border: 1px solid #FFA500; width: 60%;">
+
+<div align="center">
   <h2 style="font-size: 28px; color: #FF4500;">📫 Let's Connect!</h2>
-  <a href="https://www.linkedin.com/in/sanket" style="color: #4682B4; font-size: 20px;">LinkedIn</a> |
-  <a href="https://twitter.com/sanket" style="color: #4682B4; font-size: 20px;">Twitter</a> |
-  <a href="mailto:drsanketpatil18@gmail.com" style="color: #4682B4; font-size: 20px;">Email</a>
+  <a href="https://www.linkedin.com/in/sandy1114d/" style="color: #4682B4; font-size: 20px; margin: 0 10px;">LinkedIn</a> |
+  <a href="https://github.com/Sandy1114D" style="color: #4682B4; font-size: 20px; margin: 0 10px;">GitHub</a> |
+  <a href="mailto:drsanketpatil18@example.com" style="color: #4682B4; font-size: 20px; margin: 0 10px;">Email</a>
 </div>
